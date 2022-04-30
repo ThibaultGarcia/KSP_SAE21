@@ -7,3 +7,5 @@ Nous avons découpé le travail en 3 parties :
 - [Thibault GARCIA](https://github.com/ThibaultGarcia/sae21) s'est occupé de la configuration du serveur DNS et serveur WEB externe.
 
 Pour le fichier GNS3, se rediriger vers [sae21.gns3project](sae21.gns3project) dans ce dépôt GitHub.
+
+Pour le contexte de la SAE, se rediriger vers [SAE21.pdf](SAE21.pdf)
