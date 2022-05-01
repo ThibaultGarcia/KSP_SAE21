@@ -9,3 +9,10 @@ Nous avons découpé le travail en 3 parties :
 Pour le fichier GNS3, se rediriger vers [sae21.gns3project](sae21.gns3project) dans ce dépôt GitHub.
 
 Pour le contexte de la SAE, se rediriger vers [SAE21.pdf](SAE21.pdf)
+
+Quelques images de notre réseau :
+
+![Photo 1](/Images/IMG_9586.jpg)
+![Photo 2](/Images/IMG_9587.jpg)
+![Photo 3](/Images/IMG_9588.jpg)
+![Photo 4](/Images/IMG_9589.jpg)
